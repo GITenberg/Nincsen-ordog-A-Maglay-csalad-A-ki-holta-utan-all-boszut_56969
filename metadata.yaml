@@ -1,5 +1,8 @@
 _repo: Nincsen-ordog-A-Maglay-csalad-A-ki-holta-utan-all-boszut_56969
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56969-h/images/cover.jpg
 creator:
   author:
     agent_name: Jókai, Mór
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5845
     wikipedia: http://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56969#Nincsen-ordog-A-Maglay-csalad-A-ki-holta-utan-all-boszut
 gutenberg_issued: '2018-04-12'
 gutenberg_type: Text
 identifiers:
